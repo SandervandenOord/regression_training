@@ -4,7 +4,7 @@ March 2020
 
 #### Contains notebooks to explain:
 - the basics of pandas
-- the basics of linear regression
+- introduction to linear regression
 <br>
 
 #### Goal is to find which advertising variables are important to predict and improve sales.
